@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joekabucho/Deep-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joekabucho/Deep-learning/issues"
+  },
+  "homepage": "https://github.com/joekabucho/Deep-learning#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.15.0",
+    "@tensorflow/tfjs-node": "^0.2.3"
+  }
+}
